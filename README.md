@@ -17,7 +17,8 @@
 
   - 💬I am 43 years old and currently living in Brazil. I am fluent in English and am studying Data Engineering. I have experience with SQL, Python, Data Analysis, Data Visualization, and basic knowledge of Database Administration (DBA). Additionally, I have completed courses in MySQL, Postgres, Docker, and data modeling. I am currently developing practical projects to gain experience as a DBA, with the goal of evolving into a Data Manager in the future. I am also studying basic knowledge of data engineering and Big Data, and I plan to implement a small ETL project.
 
-I have over 15 years of experience in customer service, which has helped me develop important skills such as creativity, communication, marketing, analytical capability, and community and social media management.
+  - I have over 15 years of experience in customer service, which has helped me develop important skills such as creativity, communication, marketing, analytical       
+    capability, and community and social media management.
 
   - ⚡ II have a strong interest in reading, especially books on philosophy, stoicism, politics, and German literature, as well as manga and comics. I also enjoy exploring database articles in less common languages, such as Mandarin. In my free time, I love watching movies and playing video games with my son. I believe that our personal interests not only enrich our worldview but also enhance our ability to solve problems creatively and effectively. \o/
 </details>
@@ -27,7 +28,7 @@ I have over 15 years of experience in customer service, which has helped me deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.descksnover.app/api?username=decksnover&show_icons=true&theme=gotham)
+![![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
