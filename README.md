@@ -33,9 +33,6 @@
 ## Principais Linguagens
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Estatísticas Gerais
-![DeckSnover's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeckSnover&theme=dark&show_icons=true)
-
 ## Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeckSnover&theme=dark)
 
