@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
 <!-- GithubStats -->
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![DeckSnover's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeckSnover&theme=dark&show_icons=true)
 
 <!-- Portfolio -->
 ## Portfolio:
