@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_drims)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
-## GitHub Stats
+## Stats
 
 ### Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -111,7 +111,7 @@
    Sets up an ETL (Extract, Transform, Load) pipeline to make data from a Sankhya W application available for data scientists' analysis. PostgreSQL is used for storing extracted data, and Python handles the ETL process.  
    🔗 [ContactDB](https://github.com/deckSnover/ContactDB.git)
 
-## 📊 **My Skills**
+## 📊 **Skills**
 
 ### Programming Languages
 <div>
