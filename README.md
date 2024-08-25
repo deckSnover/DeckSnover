@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>🖥️ Hello World!</h1>
-</div>
+Aqui está a versão revisada do seu README com os projetos e mantendo os links dos ícones:
+
+---
 
 ## Introduction
 
@@ -28,164 +28,170 @@
 ## GitHub Stats
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Detailed Languages
 ![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&hide=javascript,html&langs_count=10)
 
-## Database Projects
+**Summary:**  
+A platform to manage and promote community events, strengthening local connections and engagement.
 
-### DB_Docker
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-**Description:**
-A project focused on containerizing databases using Docker, demonstrating the ability to manage and deploy database environments in a containerized setup.
+**Knowledge Level:**  
+Advanced
 
-**Technologies Used:**
-- Docker
-- MySQL
-- PostgreSQL
+🔗 [GitHub Repository](https://github.com/deckSnover/CommunityEvents.git)
 
-**Skills Acquired:**
-- Containerization of databases
-- Docker configuration and management
+### SupportNetwork
 
----
+**Summary:**  
+A social network for connecting people seeking mutual support and sharing experiences.
 
-### DB_Drims_Soccer
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-**Description:**
-A data management system for a soccer project, aimed at handling data related to soccer teams, players, and matches.
+**Knowledge Level:**  
+Advanced
 
-**Technologies Used:**
-- SQL
-- Python
+🔗 [GitHub Repository](https://github.com/deckSnover/SupportNetwork.git)
 
-**Skills Acquired:**
-- Data management
-- Sports analytics
+### PetCarePal
 
----
+**Summary:**  
+A platform for pet caregivers to manage pet information and care efficiently.
 
-### Contact_DB
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-**Description:**
-A database system for managing contacts, including features for adding, updating, and organizing contact information.
+**Knowledge Level:**  
+Advanced
 
-**Technologies Used:**
-- SQL
-- PostgreSQL
+🔗 [GitHub Repository](https://github.com/deckSnover/PetCarePal.git)
 
-**Skills Acquired:**
-- Contact management
-- Database design
+### VolunteerConnect
 
----
+**Summary:**  
+A platform to connect volunteers with volunteer opportunities, facilitating civic engagement.
 
-### Legacy System Migration to Azure SQL Database
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-**Description:**
-This project aims to migrate a legacy system based on SQL Server to the Azure SQL Database cloud platform. We will use SQLDBM to model the database schema before migration, facilitating visualization and collaboration in creating the model.
+**Knowledge Level:**  
+Advanced
 
-**Technologies Used:**
-- SQL Server
-- Azure SQL Database
-- Azure Database Migration Service
-- SQLDBM
+🔗 [GitHub Repository](https://github.com/deckSnover/VolunteerConnect.git)
 
-**Skills Acquired:**
-- Database migration
-- Cloud database administration
-- Performance optimization
+### StudyPal
 
-**Project Structure with SQLDBM:**
+**Summary:**  
+An app for managing studies and revisions, optimizing learning and exam preparation.
 
-1. **Planning**
-   - **Modeling the Database with SQLDBM**
-     - Use SQLDBM to create the model of the database to be migrated.
-     - Define tables, columns, primary keys, foreign keys, and necessary relationships.
-     - Share and review the model with the team to validate the structure before implementation.
-   - **Understand the Current Environment**
-     - Identify the version of SQL Server.
-     - Identify all databases that need to be migrated.
-     - Identify application dependencies.
-   - **Create an Azure Account**
-     - Create an account on Azure.
-     - Configure an Azure subscription.
-   - **Create a Migration Plan**
-     - Define the scope of migration.
-     - Determine the migration method (online or offline).
-     - Establish a timeline.
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-2. **Preparation**
-   - **Database Assessment**
-     - Use the Data Migration Assistant (DMA) to assess the SQL Server database.
-     - Identify compatibility and performance issues.
-   - **Configure Azure Environment**
-     - Create an Azure SQL Database instance.
-     - Configure networking and security.
-   - **Backup SQL Server Database**
-     - Perform a full backup of the database.
-     - Store backups in a secure location.
+**Knowledge Level:**  
+Advanced
 
-3. **Migration**
-   - **Use Azure Database Migration Service**
-     - Configure Azure Database Migration Service.
-     - Create a migration project.
-     - Select source and destination databases.
-     - Execute the initial migration.
-   - **Migration Testing**
-     - Verify the integrity of migrated data.
-     - Test the application with Azure SQL Database.
+🔗 [GitHub Repository](https://github.com/deckSnover/StudyPal.git)
 
-4. **Post-Migration**
-   - **Performance Optimization**
-     - Monitor and optimize the performance of the database on Azure.
-     - Adjust indexes and queries as necessary.
-   - **Decommission the Old Environment**
-     - Decommission the old SQL Server environment after confirming migration success.
-   - **Documentation**
-     - Document the entire migration process.
-     - Create documentation for future maintenance and optimizations.
+### ServiceRater
 
-**Tools and Resources:**
-- SQLDBM: Database modeling tool.
-- Data Migration Assistant (DMA): Tool for compatibility and performance assessment.
-- Azure Database Migration Service: Data migration service to Azure.
-- Azure Portal: Graphical interface for managing Azure resources.
+**Summary:**  
+A platform for rating and sharing experiences about received services, promoting transparency and quality.
 
----
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
 
-## Development Projects
+**Knowledge Level:**  
+Advanced
 
-- [Community_Events](https://github.com/deckSnover/CommunityEvents.git): Platform for managing community events.
-- [Calculator](https://github.com/deckSnover/Proj_Desenv.git): Web-based calculator with basic and advanced features.
+🔗 [GitHub Repository](https://github.com/deckSnover/ServiceRater.git)
+
+### CareerCoach
+
+**Summary:**  
+A platform to guide and advise individuals on their career choices and development.
+
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
+
+**Knowledge Level:**  
+Advanced
+
+🔗 [GitHub Repository](https://github.com/deckSnover/CareerCoach.git)
+
+### MindfulnessApp
+
+**Summary:**  
+An app to support and promote mindfulness practices and mental health.
+
+**Tools:**
+- SQLAlchemy
+- Eloquent
+- Sequelize
+- C++ (Connector)
+- C# (Connector)
+
+**Knowledge Level:**  
+Advanced
+
+🔗 [GitHub Repository](https://github.com/deckSnover/MindfulnessApp.git)
 
 ## 📊 **My Skills**
 
 ### Programming Languages
 <div>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-### Tools & Frameworks
-<div>
+## Tools & Frameworks
+
+<div align="left">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+
 </div>
 
-### Libraries
-<div>
-  <div>
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Seaborn" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg">
-  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://www.svgrepo.com/show/473778/scikitlearn.svg">
-</div>
-
-## GIF
-<p align="center">
-  <img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Skills Chart" width="1400" height="400"/>
-</p>
+##
+<p align="center"> <img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Skills Chart" width="1400" height="400"/> </p>
