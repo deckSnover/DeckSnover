@@ -145,7 +145,7 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
 
 ## GIF
 <p align="center">
-  <img align="center" src="https://pa1.aminoapps.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif" alt="Portfolio GIF" />
+  <img align="center" src="https://pa1.aminoapps.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif" alt="Portfolio GIF](https://i.gifer.com/J4o.gif" />
 </p>
 
 ---
