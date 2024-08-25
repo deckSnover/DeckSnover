@@ -29,7 +29,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Detailed Languages
-![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&hide=javascript,html&langs_count=10)
+![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&langs_count=10)
 
 ## Software Development Projects
 
