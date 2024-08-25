@@ -143,9 +143,9 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
   <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </div>
 
-## GIF
-<p align="center">
-  <img align="center" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Portfolio GIF" />
-</p>
+## 📊 **My Skills**
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Skills Chart" width="1400" height="400"/>
+</p>
 ---
