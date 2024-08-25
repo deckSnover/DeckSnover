@@ -1,5 +1,5 @@
----
-
+<div> <h1>🖥️ Hello World!</h1> <img>
+  
 ## Introduction
 
 <p>
@@ -31,139 +31,81 @@
 ### Detailed Languages
 ![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&hide=javascript,html&langs_count=10)
 
-**Summary:**  
-A platform to manage and promote community events, strengthening local connections and engagement.
+## Software Development Projects
 
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
+1. **CommunityEvents**  
+   A platform to manage and promote community events, strengthening local connections and engagement.  
+   **Link:** [Add link here]
 
-**Knowledge Level:**  
-Advanced
+2. **SupportNetwork**  
+   A social network for connecting people seeking mutual support and sharing experiences.  
+   **Link:** [Add link here]
 
-🔗 [GitHub Repository](https://github.com/deckSnover/CommunityEvents.git)
+3. **InventoryManager**  
+   Developed a system for managing inventory in a small business, including tracking stock levels, orders, and deliveries.  
+   **Link:** [Add link here]
 
-### SupportNetwork
+4. **ExpenseTracker**  
+   Created a web application to help users track and manage their personal expenses with visual data insights.  
+   **Link:** [Add link here]
 
-**Summary:**  
-A social network for connecting people seeking mutual support and sharing experiences.
+5. **TaskManager**  
+   Designed a task management tool that allows users to organize and prioritize their tasks efficiently.  
+   **Link:** [Add link here]
 
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
+6. **OnlineStore**  
+   Built a complete e-commerce platform with a product catalog, shopping cart, and payment integration.  
+   **Link:** [Add link here]
 
-**Knowledge Level:**  
-Advanced
+7. **WeatherApp**  
+   Developed a weather forecasting application that provides real-time data and predictions for multiple locations.  
+   **Link:** [Add link here]
 
-🔗 [GitHub Repository](https://github.com/deckSnover/SupportNetwork.git)
+8. **BlogPlatform**  
+   Created a blogging platform with user authentication, content management, and commenting features.  
+   **Link:** [Add link here]
 
-### PetCarePal
+9. **Calculator**  
+   Developed a simple calculator application with basic arithmetic operations.  
+   **Link:** [Add link here]
 
-**Summary:**  
-A platform for pet caregivers to manage pet information and care efficiently.
+10. **QuizApp**  
+    Created an interactive quiz application with multiple-choice questions and score tracking.  
+    **Link:** [Add link here]
 
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
+## Database Projects
 
-**Knowledge Level:**  
-Advanced
+1. **Legacy System Migration to Azure SQL Database**  
+   Migrated a legacy system from SQL Server to Azure SQL Database, using SQLDBM for schema modeling.  
+   **Link:** [Add link here]
 
-🔗 [GitHub Repository](https://github.com/deckSnover/PetCarePal.git)
+2. **DB_Docker**  
+   Containerized multiple databases using Docker, streamlining development and deployment processes.  
+   **Link:** [Add link here]
 
-### VolunteerConnect
+3. **ETL Pipeline Project**  
+   Implemented an ETL pipeline for a retail company, extracting data from various sources, transforming it, and loading it into a data warehouse.  
+   **Link:** [Add link here]
 
-**Summary:**  
-A platform to connect volunteers with volunteer opportunities, facilitating civic engagement.
+4. **Data Warehouse Design**  
+   Designed and implemented a data warehouse solution for a client to centralize and analyze their business data.  
+   **Link:** [Add link here]
 
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
+5. **PostgreSQL Performance Tuning**  
+   Optimized the performance of a PostgreSQL database by fine-tuning queries, indexing, and configuring server parameters.  
+   **Link:** [Add link here]
 
-**Knowledge Level:**  
-Advanced
+6. **Sales Data Analysis**  
+   Analyzed sales data using SQL and Python, generating insights to drive business decisions.  
+   **Link:** [Add link here]
 
-🔗 [GitHub Repository](https://github.com/deckSnover/VolunteerConnect.git)
+7. **MongoDB NoSQL Database Setup**  
+   Set up and configured a MongoDB database for handling large volumes of unstructured data.  
+   **Link:** [Add link here]
 
-### StudyPal
-
-**Summary:**  
-An app for managing studies and revisions, optimizing learning and exam preparation.
-
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
-
-**Knowledge Level:**  
-Advanced
-
-🔗 [GitHub Repository](https://github.com/deckSnover/StudyPal.git)
-
-### ServiceRater
-
-**Summary:**  
-A platform for rating and sharing experiences about received services, promoting transparency and quality.
-
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
-
-**Knowledge Level:**  
-Advanced
-
-🔗 [GitHub Repository](https://github.com/deckSnover/ServiceRater.git)
-
-### CareerCoach
-
-**Summary:**  
-A platform to guide and advise individuals on their career choices and development.
-
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
-
-**Knowledge Level:**  
-Advanced
-
-🔗 [GitHub Repository](https://github.com/deckSnover/CareerCoach.git)
-
-### MindfulnessApp
-
-**Summary:**  
-An app to support and promote mindfulness practices and mental health.
-
-**Tools:**
-- SQLAlchemy
-- Eloquent
-- Sequelize
-- C++ (Connector)
-- C# (Connector)
-
-**Knowledge Level:**  
-Advanced
-
-🔗 [GitHub Repository](https://github.com/deckSnover/MindfulnessApp.git)
+8. **Financial Data Management System**  
+   Developed a database system to manage and analyze financial data for an investment firm.  
+   **Link:** [Add link here]
 
 ## 📊 **My Skills**
 
@@ -189,5 +131,14 @@ Advanced
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
+## GitHub Contributions
+
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeckSnover&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeckSnover&theme=radical)](https://git.io/streak-stats)
+
 ##
-<p align="center"> <img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Skills Chart" width="1400" height="400"/> </p>
+
+<p align="center">
+  <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
+</p>
