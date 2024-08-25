@@ -35,7 +35,7 @@
 
 1. **CommunityEvents**  
    A platform to manage and promote community events, strengthening local connections and engagement.  
-   **Link:** [Add link here]
+   **Link:** [https://github.com/deckSnover/CommunityEvents.git]
 
 2. **SupportNetwork**  
    A social network for connecting people seeking mutual support and sharing experiences.  
@@ -81,7 +81,7 @@
 
 2. **DB_Docker**  
    Containerized multiple databases using Docker, streamlining development and deployment processes.  
-   **Link:** [Add link here]
+   **Link:** [https://github.com/deckSnover/DB-Docker.git]
 
 3. **ETL Pipeline Project**  
    Implemented an ETL pipeline for a retail company, extracting data from various sources, transforming it, and loading it into a data warehouse.  
@@ -106,6 +106,14 @@
 8. **Financial Data Management System**  
    Developed a database system to manage and analyze financial data for an investment firm.  
    **Link:** [Add link here]
+
+9. ContactDb_Setup
+  A project demonstrating the creation and management of a contacts database using MySQL and Docker. It includes a MySQL database with a contacts table and a web administration interface via Adminer.
+  **Link** ´[https://github.com/deckSnover/ContactDB.git]
+
+10. Basic HR and Payroll Database Project with ETL Using Docker
+  Sets up an ETL (Extract, Transform, Load) pipeline to make data from a Sankhya W application available for data scientists' analysis. PostgreSQL is used for storing extracted data, and Python handles the ETL process.
+  Link: [https://github.com/deckSnover/DB_Docke_RH-DP_ETL.git]
 
 ## 📊 **My Skills**
 
