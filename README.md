@@ -32,12 +32,58 @@
 ## GitHub Stats
 
 ### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)
 
 ### Detailed Languages
 ![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&hide=javascript,html&langs_count=10)
 
 ## Database Projects
+
+### DB_Docker
+
+**Description:**
+A project focused on containerizing databases using Docker, demonstrating the ability to manage and deploy database environments in a containerized setup.
+
+**Technologies Used:**
+- Docker
+- MySQL
+- PostgreSQL
+
+**Skills Acquired:**
+- Containerization of databases
+- Docker configuration and management
+
+---
+
+### DB_Drims_Soccer
+
+**Description:**
+A data management system for a soccer project, aimed at handling data related to soccer teams, players, and matches.
+
+**Technologies Used:**
+- SQL
+- Python
+
+**Skills Acquired:**
+- Data management
+- Sports analytics
+
+---
+
+### Contact_DB
+
+**Description:**
+A database system for managing contacts, including features for adding, updating, and organizing contact information.
+
+**Technologies Used:**
+- SQL
+- PostgreSQL
+
+**Skills Acquired:**
+- Contact management
+- Database design
+
+---
 
 ### Legacy System Migration to Azure SQL Database
 
@@ -111,6 +157,8 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
 - Azure Database Migration Service: Data migration service to Azure.
 - Azure Portal: Graphical interface for managing Azure resources.
 
+---
+
 ## Development Projects
 
 - [Community_Events](https://github.com/deckSnover/CommunityEvents.git): Platform for managing community events.
@@ -120,31 +168,27 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
 
 ### Programming Languages
 <div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### Tools & Frameworks
 <div>
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
 
 ### Libraries
 <div>
-  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Seaborn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg">
+  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
 </div>
 
-## 📊 **My Skills**
-
+## GIF
 <p align="center">
   <img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" alt="Skills Chart" width="1400" height="400"/>
 </p>
