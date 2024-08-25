@@ -178,10 +178,10 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
 
 ### Libraries
 <div>
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn-icons-png.flaticon.com/128/3940/3940446.png)">
   <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Seaborn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg">
-  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
+  <img align="center" alt="Seaborn" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg](https://cdn.worldvectorlogo.com/logos/seaborn-1.svg)">
+  <img align="center" alt="Scikit-learn" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://www.svgrepo.com/show/473778/scikitlearn.svg)">
 </div>
 
 ## GIF
