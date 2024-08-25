@@ -1,5 +1,3 @@
-Claro! Aqui está a versão em inglês da capa do seu repositório:
-
 ---
 
 # 🖥️ **Hello World!** 🌟
@@ -146,10 +144,8 @@ This project aims to migrate a legacy system based on SQL Server to the Azure SQ
 </div>
 
 ## GIF
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/9dd5a4a2-0eb4-4632-8151-8da3c0cb01b1" alt="GitHub Logo" />
+<p align="center">
+  <img align="center" src="https://pa1.aminoapps.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif" alt="Portfolio GIF" />
 </p>
 
 ---
-
-If you need anything else, just let me know!
