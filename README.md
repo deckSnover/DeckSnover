@@ -35,85 +35,81 @@
 
 1. **CommunityEvents**  
    A platform to manage and promote community events, strengthening local connections and engagement.  
-   **Link:** [https://github.com/deckSnover/CommunityEvents.git]
+   🔗 [CommunityEvents](https://github.com/deckSnover/CommunityEvents.git)
 
 2. **SupportNetwork**  
    A social network for connecting people seeking mutual support and sharing experiences.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 3. **InventoryManager**  
    Developed a system for managing inventory in a small business, including tracking stock levels, orders, and deliveries.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 4. **ExpenseTracker**  
    Created a web application to help users track and manage their personal expenses with visual data insights.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 5. **TaskManager**  
    Designed a task management tool that allows users to organize and prioritize their tasks efficiently.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 6. **OnlineStore**  
    Built a complete e-commerce platform with a product catalog, shopping cart, and payment integration.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 7. **WeatherApp**  
    Developed a weather forecasting application that provides real-time data and predictions for multiple locations.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 8. **BlogPlatform**  
    Created a blogging platform with user authentication, content management, and commenting features.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 9. **Calculator**  
    Developed a simple calculator application with basic arithmetic operations.  
-   **Link:** [Add link here]
+   🔗 [Calculator](https://github.com/deckSnover/Proj_Desenv.git)
 
 10. **QuizApp**  
     Created an interactive quiz application with multiple-choice questions and score tracking.  
-    **Link:** [Add link here]
+    🔗 [QuizApp](https://github.com/deckSnover/Proj_Desenv.git)
 
 ## Database Projects
 
 1. **Legacy System Migration to Azure SQL Database**  
    Migrated a legacy system from SQL Server to Azure SQL Database, using SQLDBM for schema modeling.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 2. **DB_Docker**  
    Containerized multiple databases using Docker, streamlining development and deployment processes.  
-   **Link:** [https://github.com/deckSnover/DB-Docker.git]
+   🔗 [DB_Docker](https://github.com/deckSnover/DB-Docker.git)
 
 3. **ETL Pipeline Project**  
    Implemented an ETL pipeline for a retail company, extracting data from various sources, transforming it, and loading it into a data warehouse.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 4. **Data Warehouse Design**  
    Designed and implemented a data warehouse solution for a client to centralize and analyze their business data.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 5. **PostgreSQL Performance Tuning**  
    Optimized the performance of a PostgreSQL database by fine-tuning queries, indexing, and configuring server parameters.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 6. **Sales Data Analysis**  
    Analyzed sales data using SQL and Python, generating insights to drive business decisions.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 7. **MongoDB NoSQL Database Setup**  
    Set up and configured a MongoDB database for handling large volumes of unstructured data.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
 8. **Financial Data Management System**  
    Developed a database system to manage and analyze financial data for an investment firm.  
-   **Link:** [Add link here]
+   🔗 [Add link here]
 
-9. ContactDb_Setup
-  A project demonstrating the creation and management of a contacts database using MySQL and Docker. It includes a MySQL database with a contacts table and a web administration interface via Adminer.
-  **Link** ´[https://github.com/deckSnover/ContactDB.git]
-
-10. Basic HR and Payroll Database Project with ETL Using Docker
-  Sets up an ETL (Extract, Transform, Load) pipeline to make data from a Sankhya W application available for data scientists' analysis. PostgreSQL is used for storing extracted data, and Python handles the ETL process.
-  Link: [https://github.com/deckSnover/DB_Docke_RH-DP_ETL.git]
+9. **Basic HR and Payroll Database Project with ETL Using Docker**  
+   Sets up an ETL (Extract, Transform, Load) pipeline to make data from a Sankhya W application available for data scientists' analysis. PostgreSQL is used for storing extracted data, and Python handles the ETL process.  
+   🔗 [ContactDB](https://github.com/deckSnover/ContactDB.git)
 
 ## 📊 **My Skills**
 
