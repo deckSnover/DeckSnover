@@ -1,5 +1,5 @@
 <div> 
-  <h1>🖥️ Olá Seja Bem Vindo (a)!</h1> 
+  <h1>🖥️ Olá, Seja Bem Vindo (a)!</h1> 
   <img>
   
   ## Introdução
