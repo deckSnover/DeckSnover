@@ -2,24 +2,13 @@
   <h1>🖥️ Olá, Seja Bem Vindo (a)!</h1> 
   <img>
   
-  ## Introdução
-
-  <p>
-    Olá 👋, sou Igor! Um profissional com mais de 15 anos de experiência em Recursos Humanos e Departamento Pessoal, atualmente focado em expandir meus conhecimentos na área de Gestão de Pessoas e na aplicação de novas tecnologias para otimizar processos. Meu MBA está me preparando para implementar soluções inovadoras, como a automação de processos de RH e análise avançada de dados para decisões estratégicas.
-  </p>
-
   ## Sobre Mim
 
-  <details>
-    <summary>👨‍💻 Mais sobre mim</summary>
+  <p>
+    💬 Com 15 anos de experiência em Administração de Pessoal, minha trajetória tem sido construída com foco em otimização de processos, gestão estratégica de equipes e garantia de conformidade trabalhista. Ao longo dos anos, tive a oportunidade de trabalhar com sistemas de gestão como SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq e Senior, além de ferramentas de controle de horários, como Rubi, Ronda, Forponto, Tangerino, Fortime e Kronos.
+  </p>
 
-    <ul>
-        <li>💬 Com 15 anos de experiência em Administração de Pessoal, minha trajetória tem sido construída com foco em otimização de processos, gestão estratégica de equipes e garantia de conformidade trabalhista. Ao longo dos anos, tive a oportunidade de trabalhar com sistemas de gestão como SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq e Senior, além de ferramentas de controle de horários, como Rubi, Ronda, Forponto, Tangerino, Fortime e Kronos.</li>
-    </ul>
-
-   </details>
-
-   <h4>Ferramentas e Habilidades:</h4>
+  <h4>Ferramentas:</h4>
   <ul>
     <li><b>Sistemas de Gestão:</b> SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq, Senior</li>
     <li><b>Controle de Jornada:</b> Rubi, Ronda, Forponto, Tangerino, Fortime, Kronos</li>
@@ -75,20 +64,14 @@
 
      🔗 [Link para o Projeto Futuro](#)
 
-    ## 📊 **Habilidades**
-
-### Ferramentas e Frameworks
-
-## 📊 Habilidades
-
-### Ferramentas e Frameworks
+## 📊 Frameworks
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000">
     <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000">
     <img align="center" alt="SAP" height="30" width="40" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
