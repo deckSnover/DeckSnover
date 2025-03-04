@@ -1,5 +1,5 @@
 <div> 
-  <h1>🖥️ Olá Mundo!</h1> 
+  <h1>🖥️ Olá Seja Bem Vindo (a)!</h1> 
   <img>
   
   ## Introdução
@@ -13,12 +13,20 @@
   <details>
     <summary>👨‍💻 Mais sobre mim</summary>
 
-    - 💬 Tenho 43 anos e sou brasileiro. Sou fluente em inglês e estou constantemente me atualizando em temas de Recursos Humanos, Departamento Pessoal e Tecnologia. Ao longo de minha carreira, acumulei mais de 15 anos de experiência em Gestão de Pessoas, o que me ajudou a desenvolver habilidades cruciais como criatividade, comunicação, marketing, habilidades analíticas e gestão de mídias sociais e comunidades.
+    <ul>
+        <li>💬 Com 15 anos de experiência em Administração de Pessoal, minha trajetória tem sido construída com foco em otimização de processos, gestão estratégica de equipes e garantia de conformidade trabalhista. Ao longo dos anos, tive a oportunidade de trabalhar com sistemas de gestão como SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq e Senior, além de ferramentas de controle de horários, como Rubi, Ronda, Forponto, Tangerino, Fortime e Kronos.</li>
+    </ul>
 
-    - Atualmente, estou aprofundando meus conhecimentos em análise de dados e automação de processos, utilizando ferramentas como Python, SQL e ferramentas de Business Intelligence (BI) para melhorar a gestão e a estratégia de RH.
+   </details>
 
-    - ⚡ Durante o meu MBA, estou desenvolvendo projetos para aplicar conhecimentos em Big Data, Inteligência Artificial, e automação para transformar a forma como lidamos com dados de RH. O objetivo é tornar os processos mais ágeis, fornecer insights valiosos para a tomada de decisão e melhorar a performance organizacional.
-  </details>
+   <h4>Ferramentas e Habilidades:</h4>
+  <ul>
+    <li><b>Sistemas de Gestão:</b> SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq, Senior</li>
+    <li><b>Controle de Jornada:</b> Rubi, Ronda, Forponto, Tangerino, Fortime, Kronos</li>
+    <li><b>Tecnologias de Análise de Dados:</b> Excel, Python, SQL, People Analytics</li>
+    <li><b>Legislação e Compliance:</b> CLT, Convenções Coletivas, eSocial, EFD-Reinf, DCTFWeb, RAIS, DIRF</li>
+    <li><b>Gestão de Processos:</b> Mapeamento e automação de processos no Departamento Pessoal</li>
+  </ul>
 
   ## Links
 
@@ -67,22 +75,27 @@
 
      🔗 [Link para o Projeto Futuro](#)
 
-  ## 📊 **Habilidades**
+    ## 📊 **Habilidades**
 
-  ### Ferramentas e Frameworks
+### Ferramentas e Frameworks
 
-<div align="left">
-  <img align="center" alt="SAP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969263.png">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+## 📊 Habilidades
 
-  ##
-  
-  <p align="center">
-    <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
-  </p>
+### Ferramentas e Frameworks
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000">
+    <img align="center" alt="SAP" height="30" width="40" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+### 🎯 **Objetivos**
+
+Atualmente, estou focado em expandir meus conhecimentos nas áreas de Análise de Dados, BI, e Automação de Processos para implementar soluções mais eficazes e inovadoras no campo de Recursos Humanos. Meu objetivo é integrar mais tecnologias para otimizar o gerenciamento de pessoas e melhorar a tomada de decisões estratégicas.
+
+<p align="center">
+  <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
+</p>
