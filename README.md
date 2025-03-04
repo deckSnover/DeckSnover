@@ -1,148 +1,82 @@
-<div> <h1>🖥️ Hello World!</h1> <img>
+<div> 
+  <h1>🖥️ Olá Mundo!</h1> 
+  <img>
   
-## Introduction
+  ## Introdução
 
-<p>
-  Hi 👋, I'm Igor! A Data Engineering student from Brazil. I am looking for my first opportunity as a Database Administrator.
-</p>
+  <p>
+    Olá 👋, sou Igor! Um profissional com mais de 15 anos de experiência em Recursos Humanos e Departamento Pessoal, atualmente focado em expandir meus conhecimentos na área de Gestão de Pessoas e na aplicação de novas tecnologias para otimizar processos. Meu MBA está me preparando para implementar soluções inovadoras, como a automação de processos de RH e análise avançada de dados para decisões estratégicas.
+  </p>
 
-## About Me
+  ## Sobre Mim
 
-<details>
-  <summary>👨‍💻 More about me</summary>
+  <details>
+    <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 43 years old and live in Brazil. I am fluent in English and studying Data Engineering. I have experience with SQL, Python, Data Analysis, Data Visualization, and basic Database Administration (DBA). I have completed courses in MySQL, Postgres, Docker, and data modeling. I am working on practical projects to gain experience as a DBA, with the goal of advancing to a Data Manager in the future. I am also studying basic data engineering and Big Data concepts, and planning to implement a small ETL project.
+    - 💬 Tenho 43 anos e sou brasileiro. Sou fluente em inglês e estou constantemente me atualizando em temas de Recursos Humanos, Departamento Pessoal e Tecnologia. Ao longo de minha carreira, acumulei mais de 15 anos de experiência em Gestão de Pessoas, o que me ajudou a desenvolver habilidades cruciais como criatividade, comunicação, marketing, habilidades analíticas e gestão de mídias sociais e comunidades.
 
-  - I have over 15 years of experience in customer service, which has helped me develop important skills such as creativity, communication, marketing, analytical abilities, and community and social media management.
+    - Atualmente, estou aprofundando meus conhecimentos em análise de dados e automação de processos, utilizando ferramentas como Python, SQL e ferramentas de Business Intelligence (BI) para melhorar a gestão e a estratégia de RH.
 
-  - ⚡ I have a strong interest in reading, especially books on philosophy, stoicism, politics, and German literature, as well as manga and comics. I also enjoy exploring articles on databases in less common languages, like Mandarin. In my free time, I love watching movies and playing video games with my son. I believe our personal interests not only enrich our worldview but also enhance our ability to solve problems creatively and effectively. \o/
-</details>
+    - ⚡ Durante o meu MBA, estou desenvolvendo projetos para aplicar conhecimentos em Big Data, Inteligência Artificial, e automação para transformar a forma como lidamos com dados de RH. O objetivo é tornar os processos mais ágeis, fornecer insights valiosos para a tomada de decisão e melhorar a performance organizacional.
+  </details>
 
-## Links
+  ## Links
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_drims)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_drims)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
-## Stats
+  ## Estatísticas
 
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ### Principais Habilidades
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Detailed Languages
-![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&langs_count=10)
+  ### Habilidades Detalhadas
+  ![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&langs_count=10)
 
-## Software Development Projects
+  ## Projetos de Recursos Humanos e Departamento Pessoal
 
-1. **CommunityEvents**  
-   A platform to manage and promote community events, strengthening local connections and engagement.  
-   🔗 [CommunityEvents](https://github.com/deckSnover/CommunityEvents.git)
+  ### Projetos Futuros (Pós-MBA)
 
-2. **SupportNetwork**  
-   A social network for connecting people seeking mutual support and sharing experiences.  
-   🔗 [Add link here]
+  1. **Automatização de Processos de Recrutamento e Seleção**
+     Após meu MBA, estou planejando desenvolver uma plataforma que automatiza o processo de recrutamento, desde a triagem de currículos até a integração do novo colaborador. Utilizando IA e machine learning para analisar currículos e identificar os melhores candidatos de forma mais eficiente.
+     🔗 [Link para o Projeto Futuro](#)
 
-3. **InventoryManager**  
-   Developed a system for managing inventory in a small business, including tracking stock levels, orders, and deliveries.  
-   🔗 [Add link here]
+  2. **Gestão Inteligente de Folha de Pagamento**
+     Planejo implementar soluções baseadas em IA para automatizar cálculos complexos de folha de pagamento, incluindo integração com sistemas de ponto e outros dados do colaborador. A intenção é reduzir erros humanos e otimizar o processo.
+     🔗 [Link para o Projeto Futuro](#)
 
-4. **ExpenseTracker**  
-   Created a web application to help users track and manage their personal expenses with visual data insights.  
-   🔗 [Add link here]
+  3. **Análise de Dados de Performance com BI**
+     Projeto de uso de Business Intelligence (BI) para análise de performance dos colaboradores. Utilizando ferramentas como Power BI ou Tableau, implementarei dashboards interativos para monitorar KPIs de desempenho em tempo real.
+     🔗 [Link para o Projeto Futuro](#)
 
-5. **TaskManager**  
-   Designed a task management tool that allows users to organize and prioritize their tasks efficiently.  
-   🔗 [Add link here]
+  4. **Gestão de Benefícios com Blockchain**
+     A ideia é utilizar tecnologia de blockchain para gerenciar os benefícios dos colaboradores, garantindo maior transparência e segurança nas transações de benefícios como vale-alimentação e outros auxílios.
+     🔗 [Link para o Projeto Futuro](#)
 
-6. **OnlineStore**  
-   Built a complete e-commerce platform with a product catalog, shopping cart, and payment integration.  
-   🔗 [Add link here]
+  5. **Plataforma de Desenvolvimento Pessoal e Treinamentos**
+     Planejo criar uma plataforma que integra dados de performance com planos de desenvolvimento pessoal, oferecendo treinamentos personalizados para os colaboradores, com base em suas avaliações de desempenho e necessidades de evolução.
+     🔗 [Link para o Projeto Futuro](#)
 
-7. **WeatherApp**  
-   Developed a weather forecasting application that provides real-time data and predictions for multiple locations.  
-   🔗 [Add link here]
+  6. **Análise de Absenteísmo e Retenção com Machine Learning**
+     Utilizando dados históricos, aplicarei modelos de machine learning para prever tendências de absenteísmo e turnover, permitindo uma gestão mais proativa de recursos humanos.
+     🔗 [Link para o Projeto Futuro](#)
 
-8. **BlogPlatform**  
-   Created a blogging platform with user authentication, content management, and commenting features.  
-   🔗 [Add link here]
+  ## 📊 **Habilidades**
 
-9. **Calculator**  
-   Developed a simple calculator application with basic arithmetic operations.  
-   🔗 [Calculator](https://github.com/deckSnover/Proj_Desenv.git)
-
-10. **QuizApp**  
-    Created an interactive quiz application with multiple-choice questions and score tracking.  
-    🔗 [QuizApp](https://github.com/deckSnover/Proj_Desenv.git)
-
-## Database Projects
-
-1. **Legacy System Migration to Azure SQL Database**  
-   Migrated a legacy system from SQL Server to Azure SQL Database, using SQLDBM for schema modeling.  
-   🔗 [Add link here]
-
-2. **DB_Docker**  
-   Containerized multiple databases using Docker, streamlining development and deployment processes.  
-   🔗 [DB_Docker](https://github.com/deckSnover/DB-Docker.git)
-
-3. **ETL Pipeline Project**  
-   Implemented an ETL pipeline for a retail company, extracting data from various sources, transforming it, and loading it into a data warehouse.  
-   🔗 [Add link here]
-
-4. **Data Warehouse Design**  
-   Designed and implemented a data warehouse solution for a client to centralize and analyze their business data.  
-   🔗 [Add link here]
-
-5. **PostgreSQL Performance Tuning**  
-   Optimized the performance of a PostgreSQL database by fine-tuning queries, indexing, and configuring server parameters.  
-   🔗 [Add link here]
-
-6. **Sales Data Analysis**  
-   Analyzed sales data using SQL and Python, generating insights to drive business decisions.  
-   🔗 [Add link here]
-
-7. **MongoDB NoSQL Database Setup**  
-   Set up and configured a MongoDB database for handling large volumes of unstructured data.  
-   🔗 [Add link here]
-
-8. **Financial Data Management System**  
-   Developed a database system to manage and analyze financial data for an investment firm.  
-   🔗 [Add link here]
-
-9. **Basic HR and Payroll Database Project with ETL Using Docker**  
-   Sets up an ETL (Extract, Transform, Load) pipeline to make data from a Sankhya W application available for data scientists' analysis. PostgreSQL is used for storing extracted data, and Python handles the ETL process.  
-   🔗 [ContactDB](https://github.com/deckSnover/ContactDB.git)
-
-## 📊 **Skills**
-
-### Programming Languages
-<div>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-
-## Tools & Frameworks
+  ### Ferramentas e Frameworks
 
 <div align="left">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SAP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969263.png">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
-## GitHub Contributions
+  ##
+  
+  <p align="center">
+    <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
+  </p>
+</div>
 
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeckSnover&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeckSnover&theme=radical)](https://git.io/streak-stats)
-
-##
-
-<p align="center">
-  <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
-</p>
