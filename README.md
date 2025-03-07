@@ -1,36 +1,31 @@
-<div> 
-  <h1>🖥️ Olá, Seja Bem Vindo (a)!</h1> 
-  <img>
+<div>
+  <h1>🖥️ Olá, Seja Bem Vindo (a)!</h1>
   
-  ## Sobre Mim
-
+  <h2>Sobre Mim</h2>
   <p>
-    💬 Com 15 anos de experiência em Administração de Pessoal, minha trajetória tem sido construída com foco em otimização de processos, gestão estratégica de equipes e garantia de conformidade trabalhista. Ao longo dos anos, tive a oportunidade de trabalhar com sistemas de gestão como SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq e Senior, além de ferramentas de controle de horários, como Rubi, Ronda, Forponto, Tangerino, Fortime e Kronos.
+    Ao longo dos últimos 15 anos, minha jornada profissional tem sido focada na gestão de pessoas e processos, sempre buscando formas de otimizar rotinas, liderar equipes com eficiência e garantir que as decisões sejam embasadas em dados concretos.
+  </p>
+  <p>
+    Minha formação inclui MBA em Administração de Pessoal, Gestão Estratégica de Pessoas e Direito do Trabalho, além de um MBA em Gestão Empresarial e Planejamento Tributário pelo Centro Universitário Una. Esse conhecimento me permite atuar com uma visão estratégica sobre gestão de talentos, desenvolvimento de equipes, compliance trabalhista e planejamento organizacional.
+  </p>
+  <p>
+    No dia a dia, gosto de transformar números em insights estratégicos, utilizando People Analytics, Excel, Python e SQL para aprimorar processos e facilitar a tomada de decisão. Além disso, tenho experiência com SAP, Sankhya, Protheus, Alterdata, MasterMaq e Senior, além de diversas ferramentas de controle de jornada.
   </p>
 
-  <h4>Ferramentas:</h4>
+  <h2>Skills</h2>
   <ul>
-    <li><b>Sistemas de Gestão:</b> SAP, Sankhya, Protheus, Alterdata, FPW, MasterMaq, Senior</li>
-    <li><b>Controle de Jornada:</b> Rubi, Ronda, Forponto, Tangerino, Fortime, Kronos</li>
-    <li><b>Tecnologias de Análise de Dados:</b> Excel, Python, SQL, People Analytics</li>
-    <li><b>Legislação e Compliance:</b> CLT, Convenções Coletivas, eSocial, EFD-Reinf, DCTFWeb, RAIS, DIRF</li>
-    <li><b>Gestão de Processos:</b> Mapeamento e automação de processos no Departamento Pessoal</li>
+    <li>✔ Gestão de equipes e desenvolvimento de talentos</li>
+    <li>✔ Tomada de decisão baseada em dados (People Analytics)</li>
+    <li>✔ Otimização e automação de processos em RH</li>
+    <li>✔ Compliance trabalhista e legislação (CLT, eSocial, EFD-Reinf, DCTFWeb)</li>
+    <li>✔ Planejamento estratégico e tributário para empresas</li>
   </ul>
+</div>
 
   ## Links
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_drims)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
-
-  ## Estatísticas
-
-  ### Principais Habilidades
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  ### Habilidades Detalhadas
-  ![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckSnover&theme=dark&langs_count=10)
-
-  ## Projetos de Recursos Humanos e Departamento Pessoal
 
   ### Projetos (MBA)
 
