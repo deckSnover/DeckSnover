@@ -18,13 +18,12 @@
     <li>✔ Tomada de decisão baseada em dados (People Analytics)</li>
     <li>✔ Otimização e automação de processos em RH</li>
     <li>✔ Compliance trabalhista e legislação (CLT, eSocial, EFD-Reinf, DCTFWeb)</li>
-    <li>✔ Planejamento estratégico e tributário para empresas</li>
+    <li>✔ Planejamento estratégico processos Administração de Pessoal
   </ul>
 </div>
 
   ## Links
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_hilario_Oficial)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
   ### Projetos (MBA)
