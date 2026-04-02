@@ -1,65 +1,68 @@
-# 🖥️ Gerente de People Analytics & Auditoria Digital de DP
+# 🖥️ Igor Hilario | Head of HR Governance, Risk & Compliance (GRC)
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/Gerência-People_Analytics-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auditoria-Compliance_Digital-red?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mestria-Excel_e_VBA-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Preservação_de_Patrimônio-002147?style=for-the-badge&logo=maas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estratégia-Mitigação_de_Perdas-8B0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tecnologia-Predictive_Analytics-green?style=for-the-badge&logo=python&logoColor=white" />
   <br><br>
 </div>
 
-## 🎯 Sobre Mim: A Interseção entre Gestão e Dados
-Líder de Operações de Gente e Gestão focado em Eficiência e Compliance Digital. Com 17 anos de trajetória, domino a jornada completa do colaborador, do onboarding ao offboarding. Utilizo Ciência de Dados (Python/SQL) e metodologias Lean Six Sigma para reorganizar o DP, eliminando gargalos operacionais e convertendo dados brutos em insights que impulsionam o engajamento e a saúde financeira organizacional.
+## 🎯 Guardião da Integridade Operacional e Financeira
+Estrategista com **17 anos de experiência** na intersecção entre **Direito do Trabalho, Engenharia de Dados e Compliance Previdenciário**. Minha atuação é pautada pela **blindagem jurídica e financeira** das organizações, transformando o Departamento Pessoal em uma unidade de defesa de patrimônio.
 
-Com formação em MBA em Gestão Estratégica, Administração de Pessoal e Direito do Trabalho, utilizo **Python, SQL e Lean Six Sigma (Yellow Belt)** para realizar auditorias complexas e prever tendências de capital humano.
-
-## 🛠️ Stack Técnica & ERPs
-* **Data Science:** Python (Pandas, Numpy, Scikit-Learn), SQL (PostgreSQL, MySQL).
-* **Business Intelligence:** Power BI, Tableau, Dashboards de indicadores (KPIs).
-* **ERPs & Sistemas:** SAP, Senior, Protheus (TOTVS), Ahgora, Sankhya, MasterMaq.
-* **Compliance:** eSocial, EFD-Reinf, DCTFWeb, Auditoria de FGTS/INSS.
+Utilizo **Python e SQL** para auditar ciclos complexos de dados, identificando passivos invisíveis e ineficiências tributárias antes que se tornem perdas reais. Minha metodologia foca no **Erro Zero** e na antecipação de riscos ocupacionais (NR-1) e trabalhistas.
 
 ---
 
-## 📈 Projetos de Auditoria & Ciência de Dados (Portfólio Executivo)
+## 📈 Projetos de Mitigação de Risco & Auditoria
 
-### 1. Auditoria Analítica de Passivo Trabalhista (Base 24 Meses)
-Análise profunda de dois anos de dados de folha e ponto para identificação de passivos ocultos. Utilizei Python para processar milhares de registros, detectando exposições financeiras (Art. 66 e 71 CLT) e inconsistências de integração que resultavam em prejuízos silenciosos.
-* **Status:** Concluído / Em implementação de melhorias.
-* 🔗 [Acesse o Repositório de Auditoria](#)
+### 1. Auditoria de Blindagem Patrimonial: Saneamento de Legado
+Projeto focado na revisão técnica e purificação de bases históricas para eliminação de passivos silenciosos.
+* **O que resolve:** Identificação e correção de parametrizações incorretas de encargos, rubricas e CCT acumuladas desde 2022.
+* **Impacto:** Proteção direta do caixa da empresa através da mitigação de riscos de condenações judiciais e autuações fiscais.
+* 🔗 [Metodologia de Saneamento de Dados](#)
 
-### 2. Motor Preditivo de Absenteísmo e Turnover
-Desenvolvimento de um modelo de Machine Learning que utiliza dados históricos de dois anos para prever padrões de desligamento e faltas. O foco é permitir uma gestão proativa, reduzindo o custo de rotatividade da empresa.
-* **Status:** Em desenvolvimento.
-* 🔗 [Acesse o Projeto de Predição](#)
+### 2. Análise Preditiva de Saúde e Segurança Ocupacional (Compliance NR-1)
+Desenvolvimento de modelos preditivos para identificação de riscos de saúde mental e exaustão ocupacional (Burnout).
+* **O que resolve:** Monitoramento de padrões críticos de jornada (Art. 66/71 CLT) e absenteísmo para prevenir afastamentos previdenciários de longa duração.
+* **Diferencial:** Redução do impacto no FAP (Fator Acidentário de Prevenção) e blindagem contra processos de danos morais e doenças do trabalho.
+* 🔗 [Framework de Análise de Risco Humano](#)
 
-### 3. Reorganização Estrutural de DP: Framework Lean Six Sigma
-Projeto de redesenho completo de fluxos operacionais de um DP regional (Cuiabá, Goiânia, BH). Aplicação de metodologias ágeis para eliminar gargalos em admissões e conferência de folha, reduzindo o tempo de processamento em 30%.
-* **Status:** Implementado.
-* 🔗 [Documentação do Framework de Processos](#)
+### 3. Engine de Auditoria de Benefícios e Recuperação de Créditos
+Sistema automatizado de validação cruzada entre arquivos de fornecedores (Vendor Files) e folha processada.
+* **Foco:** Auditoria de 100% dos eventos de Farmácia, Seguros, Combustível e Convênios.
+* **Resultado:** Eliminação de descontos indevidos e recuperação de créditos não gozados, garantindo a integridade financeira dos benefícios flexíveis.
+* 🔗 [Detalhamento do Sistema de Auditoria](#)
 
-### 4. Dashboard de Gestão Regional de Jornada (KPIs Estratégicos)
-Criação de visualizações em Power BI integradas ao sistema Ahgora, permitindo que supervisores monitorem em tempo real a curva de horas extras e o cumprimento de escalas, garantindo o compliance e o controle de orçamento.
-* **Status:** Ativo.
-* 🔗 [Visualizar Protótipo do Dashboard](#)
-
-### 5. Auditoria Digital de Encargos e eSocial
-Automação via Python para cruzamento de rubricas e eventos (S-1200/S-1210). O sistema identifica divergências de bases de INSS/FGTS antes do fechamento da DCTFWeb, garantindo zero multas.
-* **Status:** Concluído.
-* 🔗 [Link para o Script de Compliance](#)
+### 4. Validador Digital eSocial & Compliance Previdenciário
+Malha fina automatizada que recalcula bases tributárias de forma independente ao ERP (INSS/FGTS/IRRF).
+* **Diferencial:** Identificação de divergências entre S-1200 e S-1210 antes do fechamento da DCTFWeb, garantindo conformidade total e proteção contra multas administrativas.
+* 🔗 [Acesse o Script de Compliance](#)
 
 ---
 
-## 📊 Frameworks & Ferramentas
+## 🛠️ Stack Técnica & Inteligência de Negócio
+* **Auditoria de Dados:** Python (Pandas para processamento de alto volume), SQL (Querying de bases relacionais).
+* **Gestão de Riscos:** Checklist Técnico Proprietário aplicado a 50+ pontos de controle de integridade de folha.
+* **Ecossistema:** Saneamento estratégico de ERPs (**SAP, Senior, Protheus/TOTVS, Sankhya e MasterMaq**).
+* **Expertise:** Gestão integral de DP e RH com foco em Eficiência Operacional e Lean Six Sigma.
 
+---
+
+📊 Frameworks, ERPs & Ecossistema de Auditoria
+🛠️ Data Stack & Analytics
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img alt="Power BI" height="40" src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000">
-    <img alt="Excel" height="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000">
-    <img alt="SAP" height="40" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000">
-    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img alt="Excel" height="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000">
+<img alt="Power BI" height="40" src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000">
 </div>
+
+---
+
+### 📫 Vamos elevar a maturidade do seu DP?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
 
 <p align="center">
   <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
