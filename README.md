@@ -1,8 +1,15 @@
 # 🖥️ Gerente de People Analytics & Auditoria Digital de DP
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorhilario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhilario&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <img src="https://img.shields.io/badge/Gerência-People_Analytics-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auditoria-Compliance_Digital-red?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mestria-Excel_e_VBA-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <br><br>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorhilario&show_icons=true&theme=tokyonight&include_all_commits=true" />
+
 </div>
 
 ## 🎯 Sobre Mim: A Interseção entre Gestão e Dados
