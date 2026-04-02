@@ -1,51 +1,79 @@
-# 🖥️ Igor Hilario | Head of HR Governance, Risk & Compliance (GRC)
+# 🖥️ Igor Hilario | Gerente de Riscos, Compliance e Integridade de Dados Trabalhistas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foco-Preservação_de_Patrimônio-002147?style=for-the-badge&logo=maas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estratégia-Mitigação_de_Perdas-8B0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tecnologia-Predictive_Analytics-green?style=for-the-badge&logo=python&logoColor=white" />
-  <br><br>
+  <img src="https://img.shields.io/badge/Foco-Governança_de_RH-002147?style=for-the-badge&logo=maas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estratégia-Controle_e_Mitigação_de_Riscos-8B0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tecnologia-HR_Analytics_&_Data_Control-green?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## 🎯 Guardião da Integridade Operacional e Financeira
-Estrategista com **17 anos de experiência** na intersecção entre **Direito do Trabalho, Engenharia de Dados e Compliance Previdenciário**. Minha atuação é pautada pela **blindagem jurídica e financeira** das organizações, transformando o Departamento Pessoal em uma unidade de defesa de patrimônio.
+---
 
-Utilizo **Python e SQL** para auditar ciclos complexos de dados, identificando passivos invisíveis e ineficiências tributárias antes que se tornem perdas reais. Minha metodologia foca no **Erro Zero** e na antecipação de riscos ocupacionais (NR-1) e trabalhistas.
+## 🎯 Governança e Controle Técnico sobre RH e Departamento Pessoal
+
+Profissional com **17 anos de experiência**, atuando na camada **estratégica e técnica acima da operação de RH e Departamento Pessoal**, com foco em **governança, auditoria, compliance e mitigação de riscos trabalhistas e previdenciários**.
+
+Responsável por garantir a **integridade dos dados, conformidade legal e segurança financeira** dos processos de folha, benefícios e obrigações acessórias.
+
+Atuação direta na interface entre **RH, Jurídico, Financeiro e Auditoria**, suportando decisões executivas com base em dados.
 
 ---
 
-## 📈 Projetos de Mitigação de Risco & Auditoria
+## 📈 Atuação Estratégica
 
-### 1. Auditoria de Blindagem Patrimonial: Saneamento de Legado
-Projeto focado na revisão técnica e purificação de bases históricas para eliminação de passivos silenciosos.
-* **O que resolve:** Identificação e correção de parametrizações incorretas de encargos, rubricas e CCT acumuladas desde 2022.
-* **Impacto:** Proteção direta do caixa da empresa através da mitigação de riscos de condenações judiciais e autuações fiscais.
-* 🔗 [Metodologia de Saneamento de Dados](#)
-
-### 2. Análise Preditiva de Saúde e Segurança Ocupacional (Compliance NR-1)
-Desenvolvimento de modelos preditivos para identificação de riscos de saúde mental e exaustão ocupacional (Burnout).
-* **O que resolve:** Monitoramento de padrões críticos de jornada (Art. 66/71 CLT) e absenteísmo para prevenir afastamentos previdenciários de longa duração.
-* **Diferencial:** Redução do impacto no FAP (Fator Acidentário de Prevenção) e blindagem contra processos de danos morais e doenças do trabalho.
-* 🔗 [Framework de Análise de Risco Humano](#)
-
-### 3. Engine de Auditoria de Benefícios e Recuperação de Créditos
-Sistema automatizado de validação cruzada entre arquivos de fornecedores (Vendor Files) e folha processada.
-* **Foco:** Auditoria de 100% dos eventos de Farmácia, Seguros, Combustível e Convênios.
-* **Resultado:** Eliminação de descontos indevidos e recuperação de créditos não gozados, garantindo a integridade financeira dos benefícios flexíveis.
-* 🔗 [Detalhamento do Sistema de Auditoria](#)
-
-### 4. Validador Digital eSocial & Compliance Previdenciário
-Malha fina automatizada que recalcula bases tributárias de forma independente ao ERP (INSS/FGTS/IRRF).
-* **Diferencial:** Identificação de divergências entre S-1200 e S-1210 antes do fechamento da DCTFWeb, garantindo conformidade total e proteção contra multas administrativas.
-* 🔗 [Acesse o Script de Compliance](#)
+### 🔹 Governança e Controles de RH
+- Estruturação de **controles internos** aplicados a folha e obrigações legais  
+- Definição de critérios de validação e consistência de dados  
+- Criação de checkpoints críticos para mitigação de riscos operacionais  
 
 ---
 
-## 🛠️ Stack Técnica & Inteligência de Negócio
-* **Auditoria de Dados:** Python (Pandas para processamento de alto volume), SQL (Querying de bases relacionais).
-* **Gestão de Riscos:** Checklist Técnico Proprietário aplicado a 50+ pontos de controle de integridade de folha.
-* **Ecossistema:** Saneamento estratégico de ERPs (**SAP, Senior, Protheus/TOTVS, Sankhya e MasterMaq**).
-* **Expertise:** Gestão integral de DP e RH com foco em Eficiência Operacional e Lean Six Sigma.
+### 🔹 Auditoria Técnica de Folha e Encargos
+- Revisão independente de cálculos de INSS, FGTS e IRRF  
+- Identificação de inconsistências sistêmicas e parametrizações incorretas  
+- Atuação preventiva na redução de passivos trabalhistas e fiscais  
+
+---
+
+### 🔹 Compliance eSocial e Previdenciário
+- Validação técnica de eventos (S-1200, S-1210, entre outros)  
+- Auditoria pré-fechamento da DCTFWeb  
+- Mitigação de riscos de autuações e penalidades administrativas  
+
+---
+
+### 🔹 Gestão de Riscos Trabalhistas (Visão Preventiva)
+- Monitoramento de padrões críticos de jornada e absenteísmo  
+- Identificação de riscos relacionados a passivos trabalhistas  
+- Suporte técnico para tomada de decisão estratégica  
+
+---
+
+### 🔹 HR Analytics e Auditoria de Dados
+- Uso de **Python e SQL** para validação e cruzamento de dados  
+- Criação de rotinas automatizadas de auditoria  
+- Identificação de desvios e inconsistências em larga escala  
+
+---
+
+## 🛠️ Competências-Chave
+
+- Governança de RH e Controles Internos  
+- Gestão de Riscos (GRC)  
+- Compliance Trabalhista e Previdenciário  
+- Auditoria de Folha e Encargos  
+- HR Analytics (Python, SQL)  
+- Integração entre RH, Jurídico e Financeiro  
+
+---
+
+## 🧩 Diferencial Competitivo
+
+Atuação na **camada de controle e inteligência**, não na execução operacional, garantindo:
+
+- Confiabilidade dos dados de RH  
+- Redução de passivos ocultos  
+- Segurança jurídica e financeira  
+- Base sólida para decisões estratégicas  
 
 ---
 
