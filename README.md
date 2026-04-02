@@ -5,11 +5,7 @@
   <img src="https://img.shields.io/badge/Gerência-People_Analytics-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Auditoria-Compliance_Digital-red?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Mestria-Excel_e_VBA-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  
   <br><br>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorhilario&show_icons=true&theme=tokyonight&include_all_commits=true" />
-
 </div>
 
 ## 🎯 Sobre Mim: A Interseção entre Gestão e Dados
