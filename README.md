@@ -1,4 +1,4 @@
-# 🖥️ Igor Hilario | Gerente de Riscos, Compliance e Integridade de Dados Trabalhistas
+# 🖥️ Gerente de Riscos, Compliance e Integridade de Dados Trabalhistas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Foco-Governança_de_RH-002147?style=for-the-badge&logo=maas&logoColor=white" />
