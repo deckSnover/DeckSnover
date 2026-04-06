@@ -1,69 +1,74 @@
-# 🖥️ Igor Hilario | Gerente de Riscos, Compliance e Integridade de Dados Trabalhistas
+<h1 align="center">🛡️ Igor Hilario</h1>
+<h3 align="center">Gerente de Governança, Compliance e Integridade de Dados</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Foco-Governança_de_RH-002147?style=for-the-badge&logo=maas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estratégia-Controle_e_Mitigação_de_Riscos-8B0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tecnologia-HR_Analytics_&_Data_Control-green?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compliance-LGPD_Aware-blueviolet?style=for-the-badge&logo=ghostery&logoColor=white" />
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/Foco-Governança%20%26%20Compliance-002147?style=for-the-badge&logo=shield&logoColor=white" /> <img src="https://img.shields.io/badge/Atuação-Risco%20Trabalhista-8B0000?style=for-the-badge&logo=scale-balanced&logoColor=white" /> <img src="https://img.shields.io/badge/Especialidade-Data%20Driven%20HR-2E8B57?style=for-the-badge&logo=python&logoColor=white" /> </div>
 
----
+## Perfil Executivo
 
-## 🎯 Especialista em Governança, Risco e Compliance (GRC) de DP
+Estrategista com **17 anos de expertise** em Departamento Pessoal e Operações de RH de alta volumetria (**9.800+ vidas**). Atuo na camada de **Inteligência Técnica de GRC**, construindo ecossistemas de controle algorítmico sobre ERPs (Protheus, Sênior, SAP). Minha metodologia foca na **blindagem corporativa**, transformando dados brutos em barreiras contra vazamentos de caixa (*Revenue Leakage*), passivos trabalhistas e riscos de saúde ocupacional.
 
-Com **17 anos de experiência**, atuo na camada de **inteligência técnica acima da operação**. Meu foco é a construção de malhas finas digitais para garantir a **segurança jurídica e financeira** de operações de alta volumetria (até 9.800 vidas).
+## Governança de Longo Prazo e Visão Estratégica (ROI)
 
-Utilizo **Python e SQL** para auditar o que o olho humano não alcança: vazamentos de receita, passivos trabalhistas ocultos e inconsistências sistêmicas entre ERPs e eSocial.
+Minha metodologia implementa um **Sistema de Vigilância Corporativa Permanente**, atuando como o **braço técnico da Diretoria** para transformar auditoria passiva em **Inteligência Preditiva**.
 
----
+  * **Sustentabilidade Financeira:** Monitoramento contínuo em ciclos de **24 meses**, impedindo a reincidência de vazamentos de caixa.
+  * **Blindagem de Capital Humano:** Integração entre DP, Jurídico e Segurança do Trabalho (NR-1/NR-17) para proteção patrimonial de alto nível.
+  * **Autonomia Decisória:** Controle da operação nas mãos da alta gestão, garantindo a integridade dos ativos em tempo real.
 
-## 📂 Framework de Auditoria Digital (Projetos)
+## Ecossistemas de Gestão (Projetos Estratégicos)
 
-### 🛡️ [Audit-Payroll-GRC](https://github.com/deckSnover/audit-payroll-grc.git)
-**Malha Fina de Folha: Recuperação de Caixa e Conformidade**
-* **Vazamento de Receita:** Identificação automática de valores não descontados (faltas, VT, VR) em rescisões ou afastamentos.
-* **Trilha de Auditoria de Reembolsos:** Detecção de descontos de faltas que são reembolsados indevidamente em meses subsequentes sem justificativa legal.
-* **Conformidade eSocial:** Cruzamento de rubricas entre ERP (Sênior/Protheus) e XML do Governo para Erro Zero na DCTFWeb.
-* `Impacto: Recuperação de ativos e eliminação de perdas financeiras no fluxo de caixa.`
+### 01\. Ciclo de Auditoria Longitudinal: Audit-Payroll-GRC
 
----
+**Gestão de Conformidade e Recuperação de Caixa (24 Meses)**
 
-### 📉 [Labor-Risk-Predictor](https://github.com/igorsilva-mg/labor-risk-predictor)
-**Monitoramento Preditivo de Passivos de Jornada**
-* **Matriz de Exposição Judicial:** Cálculo automatizado do risco financeiro acumulado por quebras de interjornada (Art. 66 CLT).
-* **Detector de Habitualidade:** Alerta de risco de incorporação salarial por excesso de horas extras 100% constantes.
-* **Auditoria de Ponto Britânico:** Análise estatística para detecção de marcações viciadas ou manipuladas que fragilizam a defesa jurídica.
-* `Impacto: Redução drástica de passivos trabalhistas e suporte consultivo ao Jurídico.`
+> Reconstrução da folha a partir da gênese do dado (SRA/SRD), com rastreio de retroatividade de 730 dias para validação de estornos e monitoramento de integridade de Big Data.
 
----
+### 02\. Centro de Inteligência Ocupacional: SST-Data-Driven
 
-### 💰 [Benefit-Cost-Optimizer](https://github.com/igorsilva-mg/benefit-cost-optimizer)
-**Auditoria de Vendor Files e Eficiência Financeira**
-* **Conciliação Automática:** Cruzamento de faturas de operadoras (Saúde/Odonto) com a base ativa de folha para identificar "fantasmas" (ex-colaboradores ainda faturados).
-* **Double-Check de Coparticipação:** Verificação se todos os eventos faturados pela operadora foram efetivamente descontados do colaborador.
-* `Impacto: Redução imediata de custos fixos operacionais.`
+**Governança em NR-1 e NR-17: Prevenção de Passivos e Saúde**
 
----
+> Inteligência de dados que cruza jornada com afastamentos para gerar mapas de calor de fadiga (HE e domingos) e suporte direto ao PGR/PCMSO.
 
-## 🛠️ Competências-Chave
+### 03\. Gestão de Eficiência de Benefícios: Benefit-Cost-Optimizer
 
-* **Governança:** Estruturação de KPIs de Auditoria e Controles Internos.
-* **Compliance:** Especialista em eSocial, DCTFWeb e Malha Fina Trabalhista.
-* **Data Stack:** Python (Pandas/Numpy), SQL (PostgreSQL), Power BI, Excel Avançado.
-* **Sistemas:** Sênior (Ronda/Rubi), TOTVS Protheus, SAP, Sankhya, FPW.
+**Auditoria de Faturas, Seguro de Vida e Contratos de Terceiros**
 
----
+> Conciliação de faturas vs. base ativa. Auditoria rigorosa de Seguro de Vida (Teto 1% a 2%) e averbações para evitar sinistros sem cobertura direta pela empresa.
 
-## 📊 Diferencial de Mercado
-Diferente da auditoria tradicional, meu método entrega o **Impacto Financeiro (R$)** e o **Risco Jurídico (%)**. Não entrego apenas relatórios; entrego **estratégia de blindagem corporativa**.
+### 04\. Escudo de Defesa Jurídica: Labor-Liability-Shield
 
----
+**Engenharia de Ponto Eletrônico e Mitigação de Risco Judicial**
 
-*Nota: Todos os códigos utilizam dados sintéticos/fictícios, respeitando a LGPD e o sigilo empresarial.*
----
+> Análise estatística de integridade de jornada. Detector de marcações viciadas ("britânicas") e cálculo de exposição financeira para subsídio técnico ao Jurídico.
 
-### 📫 Vamos elevar a maturidade do seu DP?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-hilario)
+
+## Tecnologia e Metodologia de Controle
+
+### Stack de Dados e Engenharia
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,github,git,vscode,pycharm,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
+</p>
+
+### Metodologias e Gestão (GRC)
+
+> Lean Six Sigma (Black Belt) | Compliance Auditing | Risk Management | Agile HR | ISO 31000
+
+### Compliance, Normas e Sistemas
+
+> CLT Compliance | NR-17 Ergonomia | LGPD Privacy | TOTVS Protheus | Senior Sistemas | SAP SuccessFactors
+
+
+## Diferencial Competitivo
+
+Não entrego "scripts"; entrego **Governança de Dados Trabalhistas**. Minha presença na operação garante que a evolução tecnológica da empresa acompanhe a complexidade das normas, protegendo o lucro e a imagem institucional contra riscos operacionais e judiciais.
+
+## 🔐 Confidencialidade
+
+Todos os projetos são desenvolvidos com base em boas práticas de segurança da informação, respeitando a LGPD e políticas corporativas.
 
 <p align="center">
   <img src="https://scitechdaily.com/images/Energy-Beam-Concept.gif" alt="Skills Chart" width="1400" height="400"/>
