@@ -19,7 +19,7 @@ Utilizo **Python e SQL** para auditar o que o olho humano não alcança: vazamen
 
 ## 📂 Framework de Auditoria Digital (Projetos)
 
-### 🛡️ [Audit-Payroll-GRC](https://github.com/igorsilva-mg/audit-payroll-grc)
+### 🛡️ [Audit-Payroll-GRC](https://github.com/deckSnover/audit-payroll-grc.git)
 **Malha Fina de Folha: Recuperação de Caixa e Conformidade**
 * **Vazamento de Receita:** Identificação automática de valores não descontados (faltas, VT, VR) em rescisões ou afastamentos.
 * **Trilha de Auditoria de Reembolsos:** Detecção de descontos de faltas que são reembolsados indevidamente em meses subsequentes sem justificativa legal.
