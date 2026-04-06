@@ -17,25 +17,25 @@ Minha metodologia implementa um **Sistema de Vigilância Corporativa Permanente*
 
 ## Ecossistemas de Gestão (Projetos Estratégicos)
 
-### 01\. Ciclo de Auditoria Longitudinal: Audit-Payroll-GRC
+### 01. Ciclo de Auditoria Longitudinal: **[Audit-Payroll-GRC](https://github.com/deckSnover/audit-payroll-grc)**
 
 **Gestão de Conformidade e Recuperação de Caixa (24 Meses)**
 
 > Reconstrução da folha a partir da gênese do dado (SRA/SRD), com rastreio de retroatividade de 730 dias para validação de estornos e monitoramento de integridade de Big Data.
 
-### 02\. Centro de Inteligência Ocupacional: SST-Data-Driven
+### 02. Centro de Inteligência Ocupacional: **[SST-Data-Driven](https://github.com/igorsilva-mg/labor-risk-predictor)**
 
 **Governança em NR-1 e NR-17: Prevenção de Passivos e Saúde**
 
 > Inteligência de dados que cruza jornada com afastamentos para gerar mapas de calor de fadiga (HE e domingos) e suporte direto ao PGR/PCMSO.
 
-### 03\. Gestão de Eficiência de Benefícios: Benefit-Cost-Optimizer
+### 03. Gestão de Eficiência de Benefícios: **[Benefit-Cost-Optimizer](https://github.com/igorsilva-mg/benefit-cost-optimizer)**
 
 **Auditoria de Faturas, Seguro de Vida e Contratos de Terceiros**
 
 > Conciliação de faturas vs. base ativa. Auditoria rigorosa de Seguro de Vida (Teto 1% a 2%) e averbações para evitar sinistros sem cobertura direta pela empresa.
 
-### 04\. Escudo de Defesa Jurídica: Labor-Liability-Shield
+### 04. Escudo de Defesa Jurídica: **[Labor-Liability-Shield](https://github.com/igorsilva-mg/labor-risk-predictor)**
 
 **Engenharia de Ponto Eletrônico e Mitigação de Risco Judicial**
 
