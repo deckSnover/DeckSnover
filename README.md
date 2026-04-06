@@ -1,5 +1,5 @@
 <h1 align="center">🛡️ Igor Hilario</h1>
-<h3 align="center">Gerente de Governança, Compliance e Integridade de Dados</h3>
+<h3 align="center">Gerente de Operações de DP/RH | Governance, Risk & Compliance (GRC) | People Analytics (Python & SQL) | Especialista em Preservação de Patrimônio e Eficiência de Custos</h3>
 
 <div align="center"> <img src="https://img.shields.io/badge/Foco-Governança%20%26%20Compliance-002147?style=for-the-badge&logo=shield&logoColor=white" /> <img src="https://img.shields.io/badge/Atuação-Risco%20Trabalhista-8B0000?style=for-the-badge&logo=scale-balanced&logoColor=white" /> <img src="https://img.shields.io/badge/Especialidade-Data%20Driven%20HR-2E8B57?style=for-the-badge&logo=python&logoColor=white" /> </div>
 
