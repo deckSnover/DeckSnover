@@ -1,71 +1,136 @@
 <h1 align="center">🛡️ Igor Hilario</h1>
-<h3 align="center">Gerente de Operações de DP/RH | Governance, Risk & Compliance (GRC) | People Analytics (Python & SQL) | Especialista em Preservação de Patrimônio e Eficiência de Custos</h3>
+<h3 align="center">
+Gerente de Operações de DP/RH | Governance, Risk & Compliance (GRC) | People Analytics (Python & SQL) | Preservação de Patrimônio & Eficiência de Custos
+</h3>
 
-<div align="center"> <img src="https://img.shields.io/badge/Foco-Governança%20%26%20Compliance-002147?style=for-the-badge&logo=shield&logoColor=white" /> <img src="https://img.shields.io/badge/Atuação-Risco%20Trabalhista-8B0000?style=for-the-badge&logo=scale-balanced&logoColor=white" /> <img src="https://img.shields.io/badge/Especialidade-Data%20Driven%20HR-2E8B57?style=for-the-badge&logo=python&logoColor=white" /> </div>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Foco-Governança%20%26%20Compliance-002147?style=for-the-badge&logo=shield&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Atuação-Risco%20Trabalhista-8B0000?style=for-the-badge&logo=scale-balanced&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Especialidade-Data%20Driven%20HR-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compliance-LGPD-1E90FF?style=for-the-badge&logo=lock&logoColor=white" />
+</div>
 
-## Perfil Executivo
+---
 
-Estrategista com **17 anos de expertise** em Departamento Pessoal e Operações de RH de alta volumetria (**9.800+ vidas**). Atuo na camada de **Inteligência Técnica de GRC**, construindo ecossistemas de controle algorítmico sobre ERPs (Protheus, Sênior, SAP). Minha metodologia foca na **blindagem corporativa**, transformando dados brutos em barreiras contra vazamentos de caixa (*Revenue Leakage*), passivos trabalhistas e riscos de saúde ocupacional.
+## 👤 Perfil Executivo
 
-## Governança de Longo Prazo e Visão Estratégica (ROI)
+Estrategista com **17 anos de expertise** em Departamento Pessoal e Operações de RH de alta volumetria (**9.800+ vidas**).  
 
-Minha metodologia implementa um **Sistema de Vigilância Corporativa Permanente**, atuando como o **braço técnico da Diretoria** para transformar auditoria passiva em **Inteligência Preditiva**.
+Atuo na camada de **Inteligência Técnica de GRC**, estruturando **ecossistemas de controle sobre ERPs (Protheus, Sênior, SAP)** com foco em:
 
-  * **Sustentabilidade Financeira:** Monitoramento contínuo em ciclos de **24 meses**, impedindo a reincidência de vazamentos de caixa.
-  * **Blindagem de Capital Humano:** Integração entre DP, Jurídico e Segurança do Trabalho (NR-1/NR-17) para proteção patrimonial de alto nível.
-  * **Autonomia Decisória:** Controle da operação nas mãos da alta gestão, garantindo a integridade dos ativos em tempo real.
+- Blindagem contra *Revenue Leakage*  
+- Redução de passivos trabalhistas  
+- Governança de dados e compliance  
+- Integração entre RH, Jurídico e SST  
 
-## Ecossistemas de Gestão (Projetos Estratégicos)
+Minha atuação transforma dados operacionais em **instrumentos de proteção patrimonial e suporte à decisão executiva**.
 
-### 01. Ciclo de Auditoria Longitudinal: **[Audit-Payroll-GRC](https://github.com/deckSnover/audit-payroll-grc)**
+---
 
-**Gestão de Conformidade e Recuperação de Caixa (24 Meses)**
+## 📈 Governança de Longo Prazo e Visão Estratégica (ROI)
 
-> Reconstrução da folha a partir da gênese do dado (SRA/SRD), com rastreio de retroatividade de 730 dias para validação de estornos e monitoramento de integridade de Big Data.
+Estruturação de um **Sistema de Vigilância Corporativa Permanente**, atuando como extensão técnica da Diretoria:
 
-### 02. Centro de Inteligência Ocupacional: **[SST-Data-Driven](https://github.com/igorsilva-mg/labor-risk-predictor)**
+- **Sustentabilidade Financeira:** Monitoramento contínuo (ciclos de 24 meses) para eliminação de reincidência de perdas  
+- **Blindagem de Capital Humano:** Integração entre DP, Jurídico e SST (NR-1 / NR-17)  
+- **Autonomia Decisória:** Dados estruturados para controle executivo em tempo real  
 
-**Governança em NR-1 e NR-17: Prevenção de Passivos e Saúde**
+---
 
-> Inteligência de dados que cruza jornada com afastamentos para gerar mapas de calor de fadiga (HE e domingos) e suporte direto ao PGR/PCMSO.
+## 🚀 Ecossistemas de Gestão (Projetos Estratégicos)
 
-### 03. Gestão de Eficiência de Benefícios: **[Benefit-Cost-Optimizer](https://github.com/igorsilva-mg/benefit-cost-optimizer)**
+### 🛡️ Audit-Payroll-GRC  
+🔗 https://github.com/deckSnover/audit-payroll-grc  
+**Gestão de Conformidade e Recuperação de Caixa (24 Meses)**  
+> Reconstrução da folha com rastreabilidade de 730 dias, validação de retroativos e controle de integridade de dados.
 
-**Auditoria de Faturas, Seguro de Vida e Contratos de Terceiros**
+---
 
-> Conciliação de faturas vs. base ativa. Auditoria rigorosa de Seguro de Vida (Teto 1% a 2%) e averbações para evitar sinistros sem cobertura direta pela empresa.
+### 🧠 SST-Data-Driven  
+🔗 https://github.com/igorsilva-mg/labor-risk-predictor  
+**Inteligência Ocupacional (NR-1 / NR-17)**  
+> Correlação entre jornada e afastamentos, geração de mapas de risco e suporte ao PGR/PCMSO.
 
-### 04. Escudo de Defesa Jurídica: **[Labor-Liability-Shield](https://github.com/igorsilva-mg/labor-risk-predictor)**
+---
 
-**Engenharia de Ponto Eletrônico e Mitigação de Risco Judicial**
+### 💰 Benefit-Cost-Optimizer  
+🔗 https://github.com/igorsilva-mg/benefit-cost-optimizer  
+**Eficiência de Benefícios e Auditoria de Custos**  
+> Conciliação de faturas, validação de elegibilidade e controle de contratos (incluindo seguro de vida).
 
-> Análise estatística de integridade de jornada. Detector de marcações viciadas ("britânicas") e cálculo de exposição financeira para subsídio técnico ao Jurídico.
+---
 
+### ⚖️ Labor-Liability-Shield  
+🔗 https://github.com/igorsilva-mg/labor-risk-predictor  
+**Mitigação de Riscos Trabalhistas**  
+> Análise de jornada, detecção de padrões irregulares e mensuração de exposição jurídica.
 
-## Tecnologia e Metodologia de Controle
+---
 
-### Stack de Dados e Engenharia
+## 🧪 Data Pipeline | Auditoria e Inteligência de Custos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,github,git,vscode,pycharm,figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+Ambiente de desenvolvimento contínuo voltado à criação de **módulos operacionais que alimentam os ecossistemas estratégicos**.
+
+### 🏥 Unimed Data Extractor  
+🔗 (em construção)  
+**Pipeline de Extração e Estruturação de Faturas de Saúde**  
+> Automatização da coleta e padronização de dados para auditoria de custos e elegibilidade.
+
+---
+
+### 🔎 Healthcare Invoice Validator  
+🔗 (em construção)  
+**Validação de Faturas e Elegibilidade**  
+> Motor de regras para identificação de cobranças indevidas (ativos, dependentes, cobertura).
+
+---
+
+### 🧹 HR Data Cleaning Tools  
+🔗 (em construção)  
+**Padronização e Qualidade de Dados de RH**  
+> Tratamento de inconsistências, normalização e preparação de bases para análise.
+
+---
+
+## 💻 Tecnologia e Metodologia de Controle
+
+### 🧩 Stack de Dados e Engenharia
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,github,git,vscode,pycharm" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 </p>
 
-### Metodologias e Gestão (GRC)
+---
 
-> Lean Six Sigma (Black Belt) | Compliance Auditing | Risk Management | Agile HR | ISO 31000
+### 📐 Metodologias e Gestão (GRC)
 
-### Compliance, Normas e Sistemas
+Lean Six Sigma (Black Belt) | Compliance Auditing | Risk Management | Agile HR | ISO 31000  
 
-> CLT Compliance | NR-17 Ergonomia | LGPD Privacy | TOTVS Protheus | Senior Sistemas | SAP SuccessFactors
+---
 
+### 🏛️ Compliance, Normas e Sistemas
 
-## Diferencial Competitivo
+CLT Compliance | NR-17 Ergonomia | LGPD | TOTVS Protheus | Senior Sistemas | SAP SuccessFactors  
 
-Não entrego "scripts"; entrego **Governança de Dados Trabalhistas**. Minha presença na operação garante que a evolução tecnológica da empresa acompanhe a complexidade das normas, protegendo o lucro e a imagem institucional contra riscos operacionais e judiciais.
+---
 
+## 🏆 Diferencial Competitivo
+
+Atuo na interseção entre **RH, Dados e Risco**, estruturando mecanismos que transformam a operação em um **ambiente controlado, auditável e orientado à decisão**.
+
+Não entrego apenas automação — construo **arquitetura de governança de dados trabalhistas**, garantindo proteção financeira, conformidade regulatória e sustentabilidade operacional.
+
+---
+
+<div align="center">
+  <p><b>“Dados não são apenas informação. São mecanismos de proteção do negócio.”</b></p>
+</div>
 ## 🔐 Confidencialidade
 
 Todos os projetos são desenvolvidos com base em boas práticas de segurança da informação, respeitando a LGPD e políticas corporativas.
