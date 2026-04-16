@@ -1,6 +1,6 @@
 <h1 align="center">🛡️ Igor Hilario</h1>
 <h3 align="center">
-Gerente de Operações de DP/RH | Governance, Risk & Compliance (GRC) | People Analytics (Python & SQL) | Preservação de Patrimônio & Eficiência de Custos
+Gerente de Estratégia e Governança de DP | Compliance e Proteção de Patrimônio via People Analytics (Python & SQL) | Especialista em Auditoria e Eficiência de Custos de Folha
 </h3>
 
 <div align="center"> 
