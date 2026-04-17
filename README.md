@@ -1,7 +1,7 @@
 <h1 align="center">Igor Hilario</h1>
 
 <h3 align="center">
-Executivo de Operações de RH | Governança, Compliance e People Analytics
+Executivo de RH | Governança, Compliance e People Analytics (Data-Driven)
 </h3>
 
 <p align="center">
