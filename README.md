@@ -118,9 +118,3 @@ Especialista em transformar operações críticas de RH em estruturas de **gover
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deckSnover&theme=github_dark" width="100%" />
 </p>
-
----
-
-# 📌 Strategic Mission
-
-**Transformar complexidade operacional em controle, governança e proteção financeira.**
