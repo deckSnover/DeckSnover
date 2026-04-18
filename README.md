@@ -29,74 +29,59 @@ Especialista em transformar operações críticas de RH em estruturas de **gover
 **Experiência em ambientes com 9.800+ colaboradores.**
 
 ---
-## 🛡️ Labor Risk Shield
 
+## 🛡️ Labor Risk Shield
 📌 Monitoramento inteligente de jornada, fadiga ocupacional e absenteísmo.  
 📈 Antecipação de riscos trabalhistas ligados à saúde e excesso de jornada.  
-💼 **Resultado Estratégico:** redução preventiva de passivos e estabilidade operacional.
-
-🔗 https://github.com/deckSnover/labor-risk-shield
+💼 **Resultado Estratégico:** redução preventiva de passivos e estabilidade operacional.  
+🔗 [Acessar Repositório](https://github.com/deckSnover/labor-risk-shield)
 
 ---
 
 ## 💰 Benefit Audit Intelligence
-
 📌 Reconciliação massiva de benefícios corporativos.  
 📈 Identificação automática de cobranças indevidas e divergências cadastrais.  
-💼 **Resultado Estratégico:** recuperação financeira e maior eficiência contratual.
-
-🔗 https://github.com/deckSnover/benefit-audit-intelligence
+💼 **Resultado Estratégico:** recuperação financeira e maior eficiência contratual.  
+🔗 [Acessar Repositório](https://github.com/deckSnover/benefit-audit-intelligence)
 
 ---
 
 ## ⚙️ Payroll Governance Audit
-
 📌 Auditoria completa de folha, encargos sociais e bases críticas.  
 📈 Detecção de inconsistências históricas e riscos sistêmicos ocultos.  
-💼 **Resultado Estratégico:** blindagem patrimonial e alta governança trabalhista.
-
-🔗 https://github.com/deckSnover/audit-payroll-grc
+💼 **Resultado Estratégico:** blindagem patrimonial e alta governança trabalhista.  
+🔗 [Acessar Repositório](https://github.com/deckSnover/audit-payroll-grc)
 
 ---
 
 # 📂 Portfolio Navigator
 
 ### ⚖️ Compliance & Blindagem Trabalhista
-
-1. **[Interjornada Gap](https://github.com/deckSnover/interjornada-gap-auditor):** Auditoria Art. 66 CLT. *Intervalos inferiores a 11h.*  
-2. **[Intrajornada Compliance](https://github.com/deckSnover/intrajornada-compliance):** Pausas legais. *Conformidade jornada diária.*  
-3. **[Stability Tracker](https://github.com/deckSnover/stability-tracker):** Gestão de estabilidades. *CIPA, gestante e afastamentos.*  
-4. **[PCD/Aprendiz Monitor](https://github.com/deckSnover/pcd-quota-monitor):** Controle de cotas legais. *Mitigação de multas.*  
-5. **[Labor Risk Shield](https://github.com/deckSnover/labor-risk-shield):** Correlação jornada x saúde. *Prevenção NR-1.*  
-
----
+1. **[Interjornada Gap](https://github.com/deckSnover/interjornada-gap-auditor):** Auditoria Art. 66 CLT. *Intervalos inferiores a 11h.*
+2. **[Intrajornada Compliance](https://github.com/deckSnover/intrajornada-compliance):** Pausas legais. *Conformidade jornada diária.*
+3. **[Stability Tracker](https://github.com/deckSnover/stability-tracker):** Gestão de estabilidades. *CIPA, gestante e afastamentos.*
+4. **[PCD/Aprendiz Monitor](https://github.com/deckSnover/pcd-quota-monitor):** Controle de cotas legais. *Mitigação de multas.*
+5. **[Labor Risk Shield](https://github.com/deckSnover/labor-risk-shield):** Correlação jornada x saúde. *Prevenção NR-1.*
 
 ### 💸 Auditoria Financeira & Folha
-
-6. **[DSR Variable Auditor](https://github.com/deckSnover/dsr-variable-auditor):** Reflexos variáveis. *Conferência de médias.*  
-7. **[Anuênio Validator](https://github.com/deckSnover/tenure-bonus-validator):** Adicionais por tempo. *Evita passivos retroativos.*  
-8. **[Termination Leakage Finder](https://github.com/deckSnover/termination-leakage-audit):** Processos rescisórios. *Bloqueio de pagamentos indevidos.*  
-9. **[Tax Compliance Crosscheck](https://github.com/deckSnover/tax-compliance-crosscheck):** INSS / FGTS / DCTFWeb. *Conformidade fiscal.*  
-
----
+6. **[DSR Variable Auditor](https://github.com/deckSnover/dsr-variable-auditor):** Reflexos variáveis. *Conferência de médias.*
+7. **[Anuênio Validator](https://github.com/deckSnover/tenure-bonus-validator):** Adicionais por tempo. *Evita passivos retroativos.*
+8. **[Termination Leakage Finder](https://github.com/deckSnover/termination-leakage-audit):** Processos rescisórios. *Bloqueio de pagamentos indevidos.*
+9. **[Tax Compliance Crosscheck](https://github.com/deckSnover/tax-compliance-crosscheck):** INSS / FGTS / DCTFWeb. *Conformidade fiscal.*
 
 ### 🏥 Benefícios & Saúde Corporativa
-
-10. **[Unimed Data Extractor](https://github.com/deckSnover/unimed-data-extractor):** ETL de faturas complexas. *PDF/XML estruturado.*  
-11. **[Healthcare Eligibility Audit](https://github.com/deckSnover/healthcare-eligibility-audit):** Elegibilidade ativa. *Cobrança correta.*  
-12. **[Dental Plan Audit](https://github.com/deckSnover/dental-plan-audit):** Auditoria odontológica. *Controle financeiro.*  
-13. **[VT/VR Cost Optimizer](https://github.com/deckSnover/benefits-cost-optimizer):** Presença x concessão. *Redução de desperdício.*  
-14. **[Pharmacy Subsidy Control](https://github.com/deckSnover/pharmacy-subsidy-control):** Subsídios internos. *Governança de benefício.*  
-
----
+10. **[Unimed Data Extractor](https://github.com/deckSnover/unimed-data-extractor):** ETL de faturas complexas. *PDF/XML estruturado.*
+11. **[Healthcare Eligibility Audit](https://github.com/deckSnover/healthcare-eligibility-audit):** Elegibilidade ativa. *Cobrança correta.*
+12. **[Dental Plan Audit](https://github.com/deckSnover/dental-plan-audit):** Auditoria odontológica. *Controle financeiro.*
+13. **[VT/VR Cost Optimizer](https://github.com/deckSnover/benefits-cost-optimizer):** Presença x concessão. *Redução de desperdício.*
+14. **[Pharmacy Subsidy Control](https://github.com/deckSnover/pharmacy-subsidy-control):** Subsídios internos. *Governança de benefício.*
 
 ### 🛠️ Governança de Dados & Integração
-
-15. **[eSocial Sanitizer](https://github.com/deckSnover/esocial-data-sanitizer):** Limpeza cadastral. *Reduz erros de envio.*  
-16. **[Punch-Clock Bridge](https://github.com/deckSnover/punch-clock-integration):** Sincronizador de sistemas. *Integra Ahgora / Senior / SAP.*  
-17. **[ERP Data Matching](https://github.com/deckSnover/erp-data-matching-reconciler):** Reconciliação multi-ERP. *Integridade RH e Contabilidade.*  
-18. **[Budget Reforecast Tool](https://github.com/deckSnover/budget-reforecast-simulator):** Simulador sindical. *Apoio estratégico em CCT.*  
-19. **[KPI Executive Dashboard](https://github.com/deckSnover/kpi-executive-dashboard):** Painel executivo. *Decisão orientada por KRIs.*  
+15. **[eSocial Sanitizer](https://github.com/deckSnover/esocial-data-sanitizer):** Limpeza cadastral. *Reduz erros de envio.*
+16. **[Punch-Clock Bridge](https://github.com/deckSnover/punch-clock-integration):** Sincronizador de sistemas. *Integra Ahgora / Senior / SAP.*
+17. **[ERP Data Matching](https://github.com/deckSnover/erp-data-matching-reconciler):** Reconciliação multi-ERP. *Integridade RH e Contabilidade.*
+18. **[Budget Reforecast Tool](https://github.com/deckSnover/budget-reforecast-simulator):** Simulador sindical. *Apoio estratégico em CCT.*
+19. **[KPI Executive Dashboard](https://github.com/deckSnover/kpi-executive-dashboard):** Painel executivo. *Decisão orientada por KRIs.*
 
 ---
 
